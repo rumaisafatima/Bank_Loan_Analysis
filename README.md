@@ -246,7 +246,6 @@ jupyter notebook BANK_LOAN_ANALYSIS.ipynb
 Bank_Loan_Analysis-main/
 │
 ├── 📓 BANK_LOAN_ANALYSIS.ipynb     # Main analysis notebook
-├── 📊 financial_loan.xlsx          # Source dataset (add here)
 └── 📄 README.md                    # Project documentation
 ```
 
